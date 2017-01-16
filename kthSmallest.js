@@ -1,4 +1,3 @@
-
 function kthSmallest(x, k) {
   var arr = x.slice();
   var kthArr = [];
